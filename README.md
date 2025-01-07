@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoreG002
-- 👀 I’m interested in CyberSecurity and computer programming;
-- 🌱 I’m currently learning Computer and Automation Engineering at UNIVPM University;
+- 👀 I’m interested in Artificial Intelligence and computer programming;
+- 🌱 I have a degree in Computer and Automation Engineering and am now completing my master's degree.
 
 
 
